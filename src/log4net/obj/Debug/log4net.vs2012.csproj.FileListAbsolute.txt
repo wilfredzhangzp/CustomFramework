@@ -1,0 +1,3 @@
+F:\dotnet\build\bin\log4net\net\4.5\debug\log4net-1.3.dll
+F:\dotnet\build\bin\log4net\net\4.5\debug\log4net-1.3.pdb
+F:\dotnet\build\bin\log4net\net\4.5\debug\log4net-1.3.xml
